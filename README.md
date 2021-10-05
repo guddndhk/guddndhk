@@ -8,6 +8,12 @@
 팀 프로젝트이자 메인 프로젝트는 MoopiProject 를 참조해 주시면 됩니다 해당 프로젝트에서 번개무피,결제 를 담당 하였습니다.(Flash,Payment,coin)
 저에 대해 문의사항이 있으신분은 guddndhk@naver.com 로 메일 주시면 감사하겠습니다.
 
+<MOOPI 프로젝트 기술내역>
+
+메인 프로젝트인 MOOPIPROJECT 는 Spring Boot , Gradle, Mybatis, tomcat, Mysql, Ajax, JavaScript,Jquery, BootStrap ,OPEN API 등의 기술을 사용하였습니다.
+
+<미니 프로젝트 기술내역>
+11 미니프로젝트 Spring Frame Work, Mybatis, tomcat, Oracle Ajax, JavaScript,Jquery, BootStrap 등의 기술을 사용하였습니다.
 
 <!---
 guddndhk/guddndhk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
