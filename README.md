@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me guddndhk@naver.com  ...
 
-저의 개인 블로그 입니다 프로젝트 부터 알고리즘 , 개인학습 등으 내용들을 공유하고 있습니다.
+저의 개인 블로그 입니다. 프로젝트 부터 알고리즘 , 개인학습 등의 내용들을 공유하고 있습니다.
 https://blog.naver.com/guddndhk
 
 안녕하십니까 초급개발자 조형우 입니다.
