@@ -13,10 +13,18 @@ https://blog.naver.com/guddndhk
 
 <MOOPI 프로젝트 기술내역>
 
-메인 프로젝트인 MOOPIPROJECT 는 Spring Boot , Gradle, Mybatis, tomcat, Mysql, Ajax, JavaScript,Jquery, BootStrap ,OPEN API 등의 기술을 사용하였습니다.
+메인 프로젝트인 MOOPIPROJECT 는 Spring Boot , Gradle, Mybatis, tomcat, Mysql, Ajax, JavaScript,Jquery, BootStrap ,OPEN API 등의 기술을 사용 하였습니다.
 
 <미니 프로젝트 기술내역>
 11 미니프로젝트 Spring Frame Work, Mybatis, tomcat, Oracle Ajax, JavaScript,Jquery, BootStrap 등의 기술을 사용하였습니다.
+
+<make-mac-web 프로젝트>
+미니 프로젝트 입니다. 해당 프로젝트의 기술내용은 Spring Boot , Gradle, tomcat, mariaDB, Mustache, JPA, Spring Security, 카카오 구글 로그인 을 사용 하였습니다.
+개발환경 IDE : IntelliJ, OS환경 : MacOS 
+
+최근 관심 및 배우는 내용들
+앱제작에서 조금 관심이 있어 플러터를 조금 공부하고 있습니다.
+또한 프론트엔드 지식이 백엔드 지식보다 약하여 자바스크립트 및 뷰 강의 등을 들으며 학습하고 있습니다.
 
 <!---
 guddndhk/guddndhk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
