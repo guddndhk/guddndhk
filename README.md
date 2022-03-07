@@ -23,8 +23,7 @@ https://blog.naver.com/guddndhk
 개발환경 IDE : IntelliJ, OS환경 : MacOS 
 
 최근 관심 및 배우는 내용들
-앱제작에서 조금 관심이 있어 플러터를 조금 공부하고 있습니다.
-또한 프론트엔드 지식이 백엔드 지식보다 약하여 자바스크립트 및 뷰 강의 등을 들으며 학습하고 있습니다.
+자바 및 스프링 프레임워크에 이해도를 높이기 위해 스프링 및 자바를 더 공부하고 있습니다.
 
 <!---
 guddndhk/guddndhk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
